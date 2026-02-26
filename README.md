@@ -10,3 +10,6 @@ Notebooks:
 -Sesión 1: Repaso de Qiskit Pt 1
 
 -Sesión 2: Algoritmo de Deutsch-Jozsa
+
+-Sesión 3: Introducción a Pennylane
+
