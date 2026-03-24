@@ -17,3 +17,4 @@ Notebooks:
 
 -Sesión 5: Algoritmo de Simon
 
+-Sesión 6: Ruido Cuántico
