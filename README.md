@@ -20,3 +20,7 @@ Notebooks:
 -Sesión 6: Ruido Cuántico
 
 -Sesión 7: Algoritmo de Grover
+
+-Sesión 8: Caminatas Cuánticas
+
+-Sesión 9: QFT y Quantum Phase Estimation
