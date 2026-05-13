@@ -24,3 +24,7 @@ Notebooks:
 -Sesión 8: Caminatas Cuánticas
 
 -Sesión 9: QFT y Quantum Phase Estimation
+
+-Sesión 10: Introducción a la Quantum Error Correction
+
+-Sesión 11: Introducción a los Algoritmos Cuánticos Variacionales y el Variational Quantum Eigensolver (VQE)
